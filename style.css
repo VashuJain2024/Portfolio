@@ -263,6 +263,7 @@ h2 {
   background-color: rgb(45, 45, 45) !important;
   padding: 0px !important;
   width: 440px !important;
+  border: none !important;
   transition: all 500ms !important;
 }
 .card .card-body {
@@ -485,7 +486,7 @@ textarea {
   justify-content: center;
   align-items: center;
   background: radial-gradient(transparent, hsl(0, 0%, 26%)),
-    url(bogdan-mb0sco-school-class-class-animated.gif) no-repeat center
+    url(images/bogdan-mb0sco-school-class-class-animated.gif) no-repeat center
       center/cover;
   /* filter: blur(1px); */
   color: rgb(255, 255, 255);

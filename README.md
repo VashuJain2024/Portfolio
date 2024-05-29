@@ -1,5 +1,3 @@
-
-https://github.com/VashuJain2024/Portfolio/assets/167463558/282dd495-01da-48e0-a817-d48e26bc9037
 # My Portfolio
 
 This is a simple guide to help you create your own portfolio website using HTML and CSS.

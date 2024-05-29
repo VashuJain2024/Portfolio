@@ -1,3 +1,5 @@
+
+https://github.com/VashuJain2024/Portfolio/assets/167463558/282dd495-01da-48e0-a817-d48e26bc9037
 # My Portfolio
 
 This is a simple guide to help you create your own portfolio website using HTML and CSS.
@@ -27,3 +29,8 @@ Feel free to customize the CSS styles in style.css to match your desired visual 
 # Deployment
 
 Once you're satisfied with your portfolio, you can deploy it using platforms like GitHub Pages, Netlify, or Vercel.
+
+# Output
+
+https://github.com/VashuJain2024/Portfolio/assets/167463558/0c79cf8f-1bad-4ea5-a745-9a518200bc33
+

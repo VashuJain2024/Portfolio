@@ -15,7 +15,7 @@ Once cloned, you can start editing the HTML and CSS files to customize your port
 
 <h4>HTML (index.html)</h4>
 
-About Me: Edit the section id="about">to include your personal information, education, and a brief introduction about yourself.<br>
+About Me: Edit the section id="about" to include your personal information, education, and a brief introduction about yourself.<br>
 Projects: Populate the section id="projects" with details about your projects. You can add new project entries by copying the existing div class="project" structure.<br>
 Skills: Update the section id="skills" with your skills and expertise.<br>
 Contact: Modify the section id="contact" to include your contact information.<br>

@@ -13,12 +13,12 @@ Once cloned, you can start editing the HTML and CSS files to customize your port
 
 # Customization
 
-<h1>HTML (index.html)</h1>
+<h4>HTML (index.html)</h4>
 About Me: Edit the <section id="about"> to include your personal information, education, and a brief introduction about yourself.
 Projects: Populate the <section id="projects"> with details about your projects. You can add new project entries by copying the existing <div class="project"> structure.
 Skills: Update the <section id="skills"> with your skills and expertise.
 Contact: Modify the <section id="contact"> to include your contact information.
-<h1>CSS (css/style.css)</h1>
+<h4>CSS (css/style.css)</h4>
 
 Feel free to customize the CSS styles in style.css to match your desired visual appearance. You can change colors, fonts, margins, and other design elements.
 
